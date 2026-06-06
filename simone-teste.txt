@@ -1,2 +1,1 @@
-Meu primeiro commit usando Git e GitHub.
-Data: 05/06/2026
+Alteração feita diretamente no GitHub
