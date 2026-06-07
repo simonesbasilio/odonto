@@ -3,3 +3,6 @@ Alteração feita localmente pela Simone
 Alteração feita diretamente no GitHub2
 API Chat desenvolvida pela Simone 06
 API Chat desenvolvida pela Simone
+API Chat desenvolvida pela Simone 07
+API Chat desenvolvida pela Simone 08
+
